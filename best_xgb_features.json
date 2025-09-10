@@ -1,0 +1,15 @@
+[
+  "Num_Columns",
+  "Num_PKs",
+  "Num_Numeric",
+  "Num_Text",
+  "Num_Date",
+  "Pct_Numeric",
+  "Pct_Text",
+  "Pct_Date",
+  "PK_Ratio",
+  "Has_Code_Prefix",
+  "Has_Measure_Prefix",
+  "Num_Key_Like",
+  "Num_Measure_Like"
+]
